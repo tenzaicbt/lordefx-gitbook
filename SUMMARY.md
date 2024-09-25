@@ -12,3 +12,7 @@
 * [CONFLICTS](tutorials/editor.md)
 * [INSTALLATION](tutorials/images-and-media.md)
 * [CONTACT US](tutorials/contact-us.md)
+
+***
+
+* [ABOUT](about.md)
