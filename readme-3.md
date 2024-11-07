@@ -1,11 +1,6 @@
 ---
 icon: shop-lock
-cover: .gitbook/assets/3.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -26,7 +21,7 @@ Welcome to the official **LordeFX Store**, where you can find all our premium de
 
 You can explore and purchase our products through the following platforms:
 
-* Tebex: [<mark style="color:orange;">Tebex Store</mark>](https://lordefx.tebex.io/).
+* **Tebex**: [<mark style="color:orange;">Tebex Store</mark>](https://lordefx.tebex.io/).
 * **Gumroad**: [<mark style="color:orange;">Gumroad Store</mark>](https://tenzalorde.gumroad.com/).
 
 ## Why Choose Us
