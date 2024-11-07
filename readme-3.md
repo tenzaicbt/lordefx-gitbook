@@ -26,7 +26,8 @@ Welcome to the official **LordeFX Store**, where you can find all our premium de
 
 You can explore and purchase our products through the following platforms:
 
-* **Gumroad**: Visit our Gumroad store to browse and buy LordeFX resources: [<mark style="color:orange;">LordeFX Gumroad Store</mark>](https://tenzalorde.gumroad.com/).
+* Tebex: [<mark style="color:orange;">Tebex Store</mark>](https://lordefx.tebex.io/).
+* **Gumroad**: [<mark style="color:orange;">Gumroad Store</mark>](https://tenzalorde.gumroad.com/).
 
 ## Why Choose Us
 
