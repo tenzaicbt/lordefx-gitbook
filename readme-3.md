@@ -34,5 +34,6 @@ We accept payments through **PayPal**, offering a secure and convenient way to c
 
 
 
-{% embed url="https://tenzalorde.gumroad.com/" %}
+{% embed url="https://lordefx.tebex.io/" %}
 
+{% embed url="https://tenzalorde.gumroad.com/" %}
